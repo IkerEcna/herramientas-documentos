@@ -1,0 +1,11 @@
+{
+  "name": "herramientas-documentos",
+  "private": true,
+  "description": "Convertir Markdown a Word con estilo propio y revisar el resultado",
+  "scripts": {
+    "md-a-docx": "node documentos/md_a_docx.js"
+  },
+  "dependencies": {
+    "docx": "9.7.1"
+  }
+}

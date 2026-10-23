@@ -1,0 +1,2 @@
+# transcripcion: transcribir.py (CPU, int8). Pesa: crear un entorno aparte (ver README)
+faster-whisper==1.2.1

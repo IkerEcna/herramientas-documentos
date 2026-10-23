@@ -1,0 +1,2 @@
+# documentos: revisar_pdf.py
+pymupdf>=1.24
